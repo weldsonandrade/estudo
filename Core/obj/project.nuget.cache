@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iy1gozy0BmSSg1lCNFCrsP2mBfY/kgZMZWlyZZvsM+897OWXAm5/loTLstYxaqH0QoJcO2D7lnM5DW6ti8M4Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WMCA\\source\\repos\\MongoDb_Study\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WMCA\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\WMCA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
